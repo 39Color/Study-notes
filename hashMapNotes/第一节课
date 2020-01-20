@@ -1,0 +1,5 @@
+1逐行讲解HashMap源码实现
+2.HashMap中位运算的使用
+3.JDK7中为什么多线程情况下HashMap扩容会出现问题
+4.通过源码掌握JDK8中关于HashMap的优化
+5.通过源码总结HashMap使用技巧。
